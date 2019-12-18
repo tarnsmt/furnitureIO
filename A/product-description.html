@@ -65,35 +65,35 @@
 			<div class="section section-gray">
 				<div class="section-content">
 					<div class="product-details">
-						<ul class="product-images">
-							<li class="preview"><img src="images/product-description/download.jpg" alt=""></li>
-							<!-- Don't show small pictures if there's only 1 -->
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-1.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-2.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-3.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-4.jpg" alt=""></a>
-							</li>
+						<ul id="imageList" class="product-images">
+<!--							<li class="preview"><img src="images/product-description/download.jpg" alt=""></li>-->
+<!--							&lt;!&ndash; Don't show small pictures if there's only 1 &ndash;&gt;-->
+<!--							<li>-->
+<!--								<a href="javascript:void(0)"><img src="images/product-description/download.jpg" alt=""></a>-->
+<!--							</li>-->
+<!--							<li>-->
+<!--								<a href="javascript:void(0)"><img src="images/product-description/download-1.jpg" alt=""></a>-->
+<!--							</li>-->
+<!--							<li>-->
+<!--								<a href="javascript:void(0)"><img src="images/product-description/download-2.jpg" alt=""></a>-->
+<!--							</li>-->
+<!--							<li>-->
+<!--								<a href="javascript:void(0)"><img src="images/product-description/download-3.jpg" alt=""></a>-->
+<!--							</li>-->
+<!--							<li>-->
+<!--								<a href="javascript:void(0)"><img src="images/product-description/download-4.jpg" alt=""></a>-->
+<!--							</li>-->
 						</ul>
 						<ul class="product-info">
-							<li class="product-name">Modern table</li>
-							<li class="product-price"><span>€</span><span>100.00</span></li>
+							<li id = "product-name" class="product-name"></li>
+							<li id = "product-price" class="product-price"></li>
 
 							<li class="product-addtocart">
 								<button>Add To Cart</button>
 							</li>
-							<li class="product-description">
-								<p>This string is randomly generated. The standard default text is designed to ramble about nothing. The standard default text is designed to ramble about nothing. This string is randomly  generated.</p>
-								<p>Whoever evaluates your text cannot evaluate the way you write. Default text creates the illusion of real text. Your design looks awesome by the way. If it is not real text, they will focus on the design.</p>
+							<li id = "product-description" class="product-description">
+<!--								<p>This string is randomly generated. The standard default text is designed to ramble about nothing. The standard default text is designed to ramble about nothing. This string is randomly  generated.</p>-->
+<!--								<p>Whoever evaluates your text cannot evaluate the way you write. Default text creates the illusion of real text. Your design looks awesome by the way. If it is not real text, they will focus on the design.</p>-->
 							</li>
 						</ul>
 					</div>
@@ -272,7 +272,7 @@
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/spin.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/ladda.min.js'></script>
-	<script src="./product-description.js"></script>
+	<script src="./product-description.js" type="module"></script>
 
 
 
