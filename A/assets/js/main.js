@@ -1,5 +1,4 @@
 (function ($) {
-	console.log("In main.js");
 
 	var $window = $(window),
 		$body = $('body'),

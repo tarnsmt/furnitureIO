@@ -6,15 +6,27 @@
       <change afterPath="$PROJECT_DIR$/A/cart.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/A/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/A/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/backend.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/backend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/bedroom-collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/bedroom-collection.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/bedroom-collelction.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collelction.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/product-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/product-description.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/script.js" afterDir="false" />
+>>>>>>> 3bd9841307610a4f1972d518584eaaa822931d95
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
@@ -248,155 +260,52 @@
       </pane>
       <pane id="Scope" />
     </panes>
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="153" />
+    <option name="y" value="24" />
+    <option name="width" value="1365" />
+    <option name="height" value="1000" />
+>>>>>>> 3bd9841307610a4f1972d518584eaaa822931d95
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/A/images/collection/bedroom-set" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/A" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/A" />
+      <recent name="$PROJECT_DIR$/A/images/collection/bedroom-set" />
+    </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/assets/js/main.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/berkley-cherry-bedroom-set.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/product-description.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/product-description.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/script.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/table.html</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.gitignore</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/furnitureIO.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/modules.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/vcs.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/backend.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/A/furniture-set-description.html</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -413,6 +322,7 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="153" y="24" width="1365" height="1000" extended-state="0" />
     <editor active="true" />
@@ -689,5 +599,23 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2326" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576756564716">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2326" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1576756564716" />
+    <state x="2298" y="270" width="580" height="564" key="MultipleFileMergeDialog" timestamp="1576764626521">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2298" y="270" width="580" height="564" key="MultipleFileMergeDialog/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1576764626521" />
+    <state x="2361" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576764620749">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2361" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1600.0.1920.1080/0.27.1600.873@1600.0.1920.1080" timestamp="1576764620749" />
+>>>>>>> 3bd9841307610a4f1972d518584eaaa822931d95
   </component>
 </project>
