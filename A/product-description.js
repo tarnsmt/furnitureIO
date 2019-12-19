@@ -20,7 +20,6 @@ var Chef = {
         let response = await backend.getProduct(["productCode"], [id]);
         let item =  response[0];
         let htmlList = "";
-
         for (let index = 0; index < item.images.length; index++) {
             if (index === 0) {
                 htmlList += '<li class="preview"><img src="' + item.images[index] + '" alt=""></li>';

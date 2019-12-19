@@ -1,5 +1,5 @@
-// const url = "https://furnitureio.herokuapp.com/api/v1/products/";
-const local_url = "http://127.0.0.1:8000/api/v1/products/";
+const local_url = "https://furnitureio.herokuapp.com/api/v1/products/";
+// const local_url = "http://127.0.0.1:8000/api/v1/products/";
 
 export default class Backend {
     async getProduct(key,value) {

@@ -81,7 +81,7 @@ var backend = new Backend();
             let ref = 'product-description.html?id=' + productos[i].productCode;
             if (1) {
                 contenido += '<div class="coin-wrapper"><a href=' + ref + '>';
-                contenido += '		<img src="' + productos[i].images[0] + '" alt="' + productos[i].name + '">  <div class="middle"><a href="product-description.html"><span class="label-product">More Info &#8594;</span></a></div>'
+                contenido += '		<img src="' + productos[i].images[0] + '" alt="' + productos[i].name + '">  <div class="middle"><a href=' + ref + '><span class="label-product">More Info &#8594;</span></a></div>'
                 contenido += '		<span class="large-12 columns product-details">'
                 contenido += '			<h3>' + productos[i].name + ' <span class="price">$ ' + productos[i].price + ' USD</span></h3>'
                 contenido += '			<h3>Stock: <span class="stock">' + productos[i].stock + '</span></h3>'

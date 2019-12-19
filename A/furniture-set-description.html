@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Shopping cart with pure javascript</title>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link rel='stylesheet'
+		href='https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css?ver=4.4.2'>
+	<link rel='stylesheet' href='https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css'>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/ladda.min.css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="./product-description.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!-- <link rel="stylesheet" href="assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript> -->
+</head>
+
+<body class="right-sidebar is-preload">
+	<div id="page-wrapper">
+
+		<!-- Header -->
+		<div id="header">
+
+			<!-- Inner -->
+			<div class="inner">
+				<header>
+					<h1><a href="index.html" id="logo">Table</a></h1>
+				</header>
+			</div>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li>
+						<a href="#">Furniture</a>
+						<ul>
+							<li><a href="table.html">Table</a></li>
+							<li><a href="#">B</a></li>
+							<li><a href="#">C</a></li>
+							<li>
+								<a href="#">Furniture Set &hellip;</a>
+								<ul>
+									<li><a href="#">Bedroom set</a></li>
+									<li><a href="#">Dinning set</a></li>
+									<li><a href="#">Table set</a></li>
+								</ul>
+							</li>
+							<li><a href="#">D</a></li>
+						</ul>
+					</li>
+					<!-- <li><a href="left-sidebar.html">Left Sidebar</a></li>
+					<li><a href="right-sidebar.html">Right Sidebar</a></li>
+					<li><a href="no-sidebar.html">No Sidebar</a></li> -->
+					<li><a href="about.html">About</a></li>
+					<li><a href="collection.html">Collection</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+		</div>
+
+		<main>
+			<div class="section section-gray">
+				<div class="section-content">
+					<div class="product-details">
+						<ul class="product-images">
+							<li class="preview"><img src="images/product-description/download.jpg" alt=""></li>
+							<!-- Don't show small pictures if there's only 1 -->
+							<li>
+								<a href="javascript:void(0)"><img src="images/product-description/download.jpg" alt=""></a>
+							</li>
+							<li>
+								<a href="javascript:void(0)"><img src="images/product-description/download-1.jpg" alt=""></a>
+							</li>
+							<li>
+								<a href="javascript:void(0)"><img src="images/product-description/download-2.jpg" alt=""></a>
+							</li>
+							<li>
+								<a href="javascript:void(0)"><img src="images/product-description/download-3.jpg" alt=""></a>
+							</li>
+							<li>
+								<a href="javascript:void(0)"><img src="images/product-description/download-4.jpg" alt=""></a>
+							</li>
+						</ul>
+						<ul class="product-info">
+							<li class="product-name">Modern table<span class="furniture-set-price">€100.00</span></li>
+							<li class="product-name">Modern tableee<span class="furniture-set-price">€100.00</span></li>
+							<li class="product-name">Modern tableeee<span class="furniture-set-price">€100.00</span></li>
+							<li id = "product-description" class="product-description" style="padding-top:20px;">
+								<p>This string is randomly generated. The standard default text is designed to ramble about nothing. The standard default text is designed to ramble about nothing. This string is randomly  generated.</p>
+							</li>
+							<li class="product-addtocart" style="padding-top:20px;">
+								<button>Add To Cart</button>
+							</li>
+						</ul>
+					
+					</div>
+				</div>
+			</div>
+			
+	
+		</main>
+
+		<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<div class="row footer-middle">
+
+					<!-- Tweets -->
+					<section class="col-4 col-12-mobile">
+						<header>
+							<h2 class="icon brands fa-telegram circled"><span class="label">Contact</span></h2>
+						</header>
+						<ul class="divided">
+							<li>
+								<article class="tweet">
+									We believe that where your furniture comes from, and how it's made are just as
+									important as style, functionality and beauty.
+								</article>
+							</li>
+							<li>
+								<article class="tweet">
+									<i class="fa fa-phone" aria-hidden="true"></i>&nbsp; Phone
+									<span class="timestamp">0-2329-8260, 0-2329-8261</span><br>
+								</article>
+							</li>
+							<li>
+								<article class="tweet">
+									<i class="fa fa-fax" aria-hidden="true"></i>&nbsp; Fax
+									<span class="timestamp">0-2329-8262</span>
+								</article>
+							</li>
+							<li>
+								<article class="tweet">
+									<i class="fa fa-comments" aria-hidden="true"></i>&nbsp; Email
+									<span class="timestamp">contact@crystaldesigncenter.com</span>
+								</article>
+							</li>
+						</ul>
+					</section>
+
+					<!-- Posts -->
+					<section class="col-4 col-12-mobile">
+						<header>
+							<h2 class="icon solid fa-flag circled"><span class="label">Address</span></h2>
+						</header>
+						<ul class="divided">
+							<li>
+								<article class="post stub">
+									<header>
+										<i class="fa fa-map" aria-hidden="true"></i>&nbsp;
+										Crystal Design Center<br>
+									</header>
+									<span class="timestamp">1420/1 Praditmanutham Road,
+										Klongjan, Bangkok,
+										Thailand 10240</span>
+								</article>
+							</li>
+							<li>
+								<article class="post stub">
+									<header>
+										From Business District area
+									</header>
+									<span class="timestamp">it will take 30 minutes via Chalong Rat Expressway and the
+										Ekamai-RamIndra Highway to Crystal Design Center</span>
+								</article>
+							</li>
+							<li>
+								<article class="post stub">
+									<header>
+										From Suvarnabhumi Airport
+									</header>
+									<span class="timestamp">it will take about 30 minutes to Crystal Design
+										Center</span>
+								</article>
+							</li>
+						</ul>
+					</section>
+
+					<!-- Photos -->
+					<section class="col-4 col-12-mobile">
+						<header>
+							<h2 class="icon solid fa-camera circled"><span class="label">Photos</span></h2>
+						</header>
+						<div class="row gtr-25">
+							<div class="col-6">
+								<a href="#" class="image fit thumbnails"><img src="images/vermont/vermont1.jpg"
+										alt="" /></a>
+							</div>
+							<div class="col-6">
+								<a href="#" class="image fit"><img src="images/vermont/vermont2.jpg" alt="" /></a>
+							</div>
+						</div>
+						<div class="row gtr-25">
+							<div class="col-6">
+								<a href="#" class="image fit"><img src="images/vermont/vermont3.jpg" alt="" /></a>
+							</div>
+							<div class="col-6">
+								<a href="#" class="image fit"><img src="images/vermont/vermont4.jpg" alt="" /></a>
+							</div>
+						</div>
+						<div class="row gtr-25">
+							<div class="col-6">
+								<a href="#" class="image fit"><img src="images/vermont/vermont5.jpg" alt="" /></a>
+							</div>
+							<div class="col-6">
+								<a href="#" class="image fit"><img src="images/vermont/vermont6.jpg" alt="" /></a>
+							</div>
+						</div>
+					</section>
+
+				</div>
+				<hr />
+				<div class="row footer-middle">
+					<div class="col-12">
+
+						<!-- Contact -->
+						<section class="contact">
+
+							<ul class="icons">
+								<li><a href="#" class="icon brands fa-facebook-f"><span
+											class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands fa-instagram"><span
+											class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands fa-pinterest"><span
+											class="label">Pinterest</span></a></li>
+								<li><a href="#" class="icon brands fa-linkedin-in"><span
+											class="label">Linkedin</span></a></li>
+							</ul>
+						</section>
+
+						<!-- Copyright -->
+						<div class="copyright">
+							<ul class="menu">
+								<li>&copy; Copyright 2019 Furnitureio.com</li>
+							</ul>
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+	<!-- partial -->
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?ver=1.11.2'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/spin.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/ladda.min.js'></script>
+	<script src="./product-description.js"></script>
+
+
+
+</body>
+
+</html>
