@@ -2752,33 +2752,33 @@ body.homepage.is-preload #header:after {
 	transform: translateY(-50%);
 }
 
-/* Animation */
+/*!* Animation *!*/
 
-.anim-typewriter-collection {
-	animation: typewriter 2s steps(20) 1s 1 normal both, blinkTextCursor 1000ms steps(44) infinite normal;
-}
+/*.anim-typewriter-collection {*/
+	/*animation: typewriter 2s steps(20) 1s 1 normal both, blinkTextCursor 1000ms steps(44) infinite normal;*/
+/*}*/
 
-.anim-typewriter-about {
-	animation: typewriter 1s steps(10) 1s 1 normal both, blinkTextCursor 1000ms steps(44) infinite normal;
-}
+/*.anim-typewriter-about {*/
+	/*animation: typewriter 1s steps(10) 1s 1 normal both, blinkTextCursor 1000ms steps(44) infinite normal;*/
+/*}*/
 
-@keyframes typewriter {
-	from {
-		width: 0;
-	}
-	to {
-		width: 100%;
-	}
-}
+/*@keyframes typewriter {*/
+	/*from {*/
+		/*width: 0;*/
+	/*}*/
+	/*to {*/
+		/*width: 100%;*/
+	/*}*/
+/*}*/
 
-@keyframes blinkTextCursor {
-	from {
-		border-right-color: rgba(255, 255, 255, .75);
-	}
-	to {
-		border-right-color: transparent;
-	}
-}
+/*@keyframes blinkTextCursor {*/
+	/*from {*/
+		/*border-right-color: rgba(255, 255, 255, .75);*/
+	/*}*/
+	/*to {*/
+		/*border-right-color: transparent;*/
+	/*}*/
+/*}*/
 
 /* Contact Form */
 

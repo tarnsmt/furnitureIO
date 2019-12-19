@@ -62,45 +62,37 @@
 		</div>
 
 		<main>
-			<div class="section section-gray">
+						<div class="section section-gray">
 				<div class="section-content">
 					<div class="product-details">
-						<ul class="product-images">
-							<li class="preview"><img src="images/product-description/download.jpg" alt=""></li>
-							<!-- Don't show small pictures if there's only 1 -->
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-1.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-2.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-3.jpg" alt=""></a>
-							</li>
-							<li>
-								<a href="javascript:void(0)"><img src="images/product-description/download-4.jpg" alt=""></a>
-							</li>
+						<ul id="imageList" class="product-images">
+
 						</ul>
 						<ul class="product-info">
-							<li class="product-name">Modern table<span class="furniture-set-price">€100.00</span></li>
-							<li class="product-name">Modern tableee<span class="furniture-set-price">€100.00</span></li>
-							<li class="product-name">Modern tableeee<span class="furniture-set-price">€100.00</span></li>
-							<li id = "product-description" class="product-description" style="padding-top:20px;">
-								<p>This string is randomly generated. The standard default text is designed to ramble about nothing. The standard default text is designed to ramble about nothing. This string is randomly  generated.</p>
+							<li>
+
+								<p id = "product-price" class="product-price" style="float:right;"></p>
+
 							</li>
-							<li class="product-addtocart" style="padding-top:20px;">
+							<!--<li id = "product-name" class="product-name"></li>-->
+							<!--<li id = "product-price" class="product-price"></li>-->
+							<li>
+								<p id = "product-name" class="product-name">
+
+								</p>
+							</li>
+							<li class="product-addtocart">
 								<button>Add To Cart</button>
 							</li>
+							<li id = "product-description" class="product-description">
+<!--								<p>This string is randomly generated. The standard default text is designed to ramble about nothing. The standard default text is designed to ramble about nothing. This string is randomly  generated.</p>-->
+
+							</li>
 						</ul>
-					
 					</div>
 				</div>
 			</div>
-			
-	
+
 		</main>
 
 		<!-- Footer -->
@@ -252,7 +244,7 @@
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/spin.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/Ladda/0.9.8/ladda.min.js'></script>
-	<script src="./product-description.js"></script>
+	<script src="./product-description.js" type="module"></script>
 
 
 
