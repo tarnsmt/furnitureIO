@@ -18,7 +18,7 @@ var Chef = {
 
     preserveProduct: async function () {
         try {
-            let response = await backend.getProduct(["productCode"], [id]);
+            let response = await backend.getProduct("products",["productCode"], [id]);
             let item = response[0];
             let htmlList = "";
             for (let index = 0; index < item.images.length; index++) {

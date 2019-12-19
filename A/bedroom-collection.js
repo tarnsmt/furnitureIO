@@ -30,63 +30,19 @@ var backend = new Backend();
     }
 
     app.createProducts = async function () {
-        var additionalProduct = await backend.getProduct(["furnitureType"], ["Bed"]);
-        var productos = [
-                {
-                    productCode: 1,
-                    images: ['images/productlisting/table1.jpg'],
-                    name: 'Table1',
-                    price: 299.00,
-                    desc: 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
-                    stock: 4
-                },
-                {
-                    productCode: 2,
-                    name: 'Table2',
-                    images: ['images/productlisting/table2.jpg'],
-                    price: 199.00,
-                    desc: 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
-                    stock: 2
-                },
-                {
-                    productCode: 3,
-                    name: 'Table3',
-                    images: ['images/productlisting/table3.jpg'],
-                    price: 99.00,
-                    desc: 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
-                    stock: 1
-                },
-                // {
-                //     id: 4,
-                //     name: 'Table4',
-                //     image: ['images/pic01.jpg'],
-                //     price: 80.00,
-                //     desc: 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
-                //     stock: 0
-                // },
-                {
-                    productCode: 1,
-                    images: ['images/productlisting/table4.jpg'],
-                    name: 'Table5',
-                    price: 10.00,
-                    desc: 'Libertad 5oz BU 1998 Contains 1 Libertad 5oz BU brilliant uncirculated .999 fine Silver. In capsule The same coin as you see in this picture. We only Ship to the US, and is FREE Shipping Shipping time 5-7 business days via UPS express with tracking and insurance. Payments only via Paypal.',
-                    stock: 8
-                }
-            ],
-            wrapper = $('.productosWrapper'),
+        var furnitureSet = await backend.getProduct("furnitureSet", ["roomType"], ["BedRoom"]),
+            wrapper = $('.furnitureWrapper'),
             contenido = ''
 
-        productos = productos.concat(additionalProduct);
-        for (var i = 0; i < productos.length; i++) {
-            let ref = 'product-description.html?id=' + productos[i].productCode;
+        for (var i = 0; i < furnitureSet.length; i++) {
+            let ref = 'furniture-set-description.html?id=' + furnitureSet[i].furnitureSetCode;
             if (1) {
                 contenido += '<div class="coin-wrapper"><a href=' + ref + '>';
-                contenido += '		<img src="' + productos[i].images[0] + '" alt="' + productos[i].name + '">  <div class="middle"><a href=' + ref + '></a></div>'
+                contenido += '		<img src="' + furnitureSet[i].images[0] + '" alt="' + furnitureSet[i].name + '">  <div class="middle"><a href=' + ref + '></a></div>'
                 contenido += '		<span class="large-12 columns product-details">'
-                contenido += '			<h3>' + productos[i].name + ' <span class="price">$ ' + productos[i].price + ' USD</span></h3>'
-                // contenido += '			<h3>Stock: <span class="stock">' + productos[i].stock + '</span></h3>'
+                contenido += '			<h3>' + furnitureSet[i].name + ' <span class="price">$ ' + furnitureSet[i].price + ' USD</span></h3>'
                 contenido += '		</span>'
-                contenido += '		<a class="large-12 columns btn submit ladda-button prod-' + productos[i].id + '" data-style="slide-right" onclick="app.addtoCart(' + productos[i].id + ');">More Info</a>'
+                contenido += '		<a class="large-12 columns btn submit ladda-button prod-' + furnitureSet[i].id + '" data-style="slide-right" onclick="app.addtoCart(' + furnitureSet[i].id + ');">More Info</a>'
                 contenido += '		<div class="clearfix"></div>'
                 contenido += '</div>'
 
@@ -96,7 +52,7 @@ var backend = new Backend();
 
         wrapper.html(contenido)
 
-        localStorage.setItem('productos', JSON.stringify(productos))
+        localStorage.setItem('furnitureSet', JSON.stringify(furnitureSet))
     };
 
     app.addtoCart = function (id) {

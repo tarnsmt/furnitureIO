@@ -30,7 +30,7 @@ var backend = new Backend();
     }
 
     app.createProducts = async function () {
-        var additionalProduct = await backend.getProduct(["furnitureType"], ["Bed"]);
+        var additionalProduct = await backend.getProduct('products',["furnitureType"], ["Bed"]);
         var productos = [
                 {
                     productCode: 1,
