@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="083ac1f2-f4ab-4308-94a4-440ee9535d75" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/A/barkley-cherry-bedroom-set.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A/barkley-cherry-bedroom-set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A/bedroom-collection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A/bedroom-collelction.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/bedroom-collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/berkley-cherry-bedroom-set.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,40 +20,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bedroom-collection.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bedroom-collection.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/A/bedroom-collection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2730">
-              <caret line="182" column="81" selection-start-line="182" selection-start-column="81" selection-end-line="182" selection-end-column="81" />
+            <state relative-caret-position="214">
+              <caret line="60" column="14" lean-forward="true" selection-end-line="233" selection-end-column="7" />
               <folding>
-                <element signature="n#style#0;n#article#0;n#li#0;n#ul#0;n#section#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="berkley-cherry-bedroom-set.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/berkley-cherry-bedroom-set.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="135" column="30" lean-forward="true" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="barkley-cherry-bedroom-set.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/barkley-cherry-bedroom-set.js">
+      <file leaf-file-name="furniture-set-description.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A/furniture-set-description.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="697">
+              <caret line="134" column="66" selection-start-line="134" selection-start-column="66" selection-end-line="134" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1783#1791#0" expanded="true" />
+                <element signature="e#7679#7685#0" expanded="true" />
+                <element signature="e#7986#7992#0" expanded="true" />
+                <element signature="e#8279#8285#0" expanded="true" />
+                <element signature="e#8944#8950#0" expanded="true" />
+                <element signature="e#12722#12728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="furniture-set-description.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A/furniture-set-description.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="159" column="11" selection-start-line="159" selection-start-column="11" selection-end-line="163" selection-end-column="24" />
               <folding>
                 <element signature="e#18#24#0" expanded="true" />
                 <element signature="e#25#31#0" expanded="true" />
@@ -63,56 +76,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/table.html">
+      <file leaf-file-name="furniture-set-description.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A/furniture-set-description.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+            <state relative-caret-position="187">
+              <caret line="421" column="13" selection-start-line="421" selection-end-line="421" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="60" column="14" lean-forward="true" selection-end-line="239" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bedroom-collelction.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/bedroom-collelction.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="bedroom-collection.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/A/bedroom-collection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="330">
+              <caret line="22" column="15" lean-forward="true" selection-end-line="261" />
               <folding>
                 <element signature="e#18#24#0" expanded="true" />
                 <element signature="e#25#31#0" expanded="true" />
                 <element signature="e#44#50#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="table.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/table.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1237">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="barkley-cherry-bedroom-set.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A/barkley-cherry-bedroom-set.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
             </state>
           </provider>
         </entry>
@@ -121,9 +103,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>product-name</find>
-      <find>anima</find>
-      <find>animation</find>
       <find>anim</find>
       <find>anim-typewriter</find>
       <find>prev</find>
@@ -135,10 +114,25 @@
       <find>scri</find>
       <find>Carousel</find>
       <find>script</find>
-      <find>more</find>
       <find>cart</find>
-      <find>add to</find>
       <find>table</find>
+      <find>hr</find>
+      <find>#foo</find>
+      <find>About us</find>
+      <find>hr</find>
+      <find>add to</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;Shopping cart with pure javascript\&lt;\/title\&gt;\n    \&lt;link href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Montserrat\' rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n    \&lt;link rel\=\'stylesheet\'\n          href\=\'https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/foundation\/5\.5\.3\/css\/foundation\.min\.css\?ver\=4\.4\.2\'\&gt;\n    \&lt;link rel\=\'stylesheet\' href\=\'https\:\/\/code\.ionicframework\.com\/ionicons\/2\.0\.1\/css\/ionicons\.min\.css\'\&gt;\n    \&lt;link rel\=\'stylesheet\' href\=\'https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Ladda\/0\.9\.8\/ladda\.min\.css\'\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/font\-awesome\/4\.7\.0\/css\/font\-awesome\.min\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\.\/bedroom\-collelction\.css\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, user\-scalable\=no\&quot;\/\&gt;\n    \&lt;\!\-\- \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;assets\/css\/main\.css\&quot; \/\&gt;\n    \&lt;noscript\&gt;\n        \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;assets\/css\/noscript\.css\&quot; \/\&gt;\&lt;\/noscript\&gt; \-\-\&gt;\n\&lt;\/head\&gt;\n\n\&lt;body class\=\&quot;right\-sidebar is\-preload\&quot;\&gt;\n\&lt;div id\=\&quot;page\-wrapper\&quot;\&gt;\n\n    \&lt;\!\-\- Header \-\-\&gt;\n    \&lt;div id\=\&quot;header\&quot;\&gt;\n\n        \&lt;\!\-\- Inner \-\-\&gt;\n        \&lt;div class\=\&quot;inner\&quot;\&gt;\n            \&lt;header\&gt;\n                \&lt;h1\&gt;\&lt;a href\=\&quot;index\.html\&quot; id\=\&quot;logo\&quot;\&gt;Bedroom Set\&lt;\/a\&gt;\&lt;\/h1\&gt;\n            \&lt;\/header\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;\!\-\- Nav \-\-\&gt;\n        \&lt;nav id\=\&quot;nav\&quot;\&gt;\n            \&lt;ul\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;index\.html\&quot;\&gt;Home\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;a href\=\&quot;\#\&quot;\&gt;Furniture\&lt;\/a\&gt;\n                    \&lt;ul\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;table\.html\&quot;\&gt;Table\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;B\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;C\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\n                            \&lt;a href\=\&quot;\#\&quot;\&gt;Furniture Set \&amp;hellip\;\&lt;\/a\&gt;\n                            \&lt;ul\&gt;\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Bedroom set\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Dinning set\&lt;\/a\&gt;\&lt;\/li\&gt;\n                                \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Table set\&lt;\/a\&gt;\&lt;\/li\&gt;\n                            \&lt;\/ul\&gt;\n                        \&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;D\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;\/ul\&gt;\n                \&lt;\/li\&gt;\n                \&lt;\!\-\- \&lt;li\&gt;\&lt;a href\=\&quot;left\-sidebar\.html\&quot;\&gt;Left Sidebar\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;right\-sidebar\.html\&quot;\&gt;Right Sidebar\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;no\-sidebar\.html\&quot;\&gt;No Sidebar\&lt;\/a\&gt;\&lt;\/li\&gt; \-\-\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;about\.html\&quot;\&gt;About\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;collection\.html\&quot;\&gt;Collection\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;li\&gt;\&lt;a href\=\&quot;contact\.html\&quot;\&gt;Contact\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;\/ul\&gt;\n        \&lt;\/nav\&gt;\n    \&lt;\/div\&gt;\n    \&lt;\!\-\- partial\:index\.partial\.html \-\-\&gt;\n    \&lt;div class\=\&quot;row\&quot; style\=\&quot;margin\: 0 auto\; padding\-bottom\: 90px\;\&quot;\&gt;\n        \&lt;div class\=\&quot;productosWrapper large\-12 columns\&quot;\&gt;\&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\n\n\&lt;\/div\&gt;\n\n\&lt;\!\-\- Footer \-\-\&gt;\n\&lt;div id\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;div class\=\&quot;row footer\-middle\&quot;\&gt;\n\n            \&lt;\!\-\- Tweets \-\-\&gt;\n            \&lt;section class\=\&quot;col\-4 col\-12\-mobile\&quot;\&gt;\n                \&lt;header\&gt;\n                    \&lt;h2 class\=\&quot;icon brands fa\-telegram circled\&quot;\&gt;\&lt;span class\=\&quot;label\&quot;\&gt;Contact\&lt;\/span\&gt;\&lt;\/h2\&gt;\n                \&lt;\/header\&gt;\n                \&lt;ul class\=\&quot;divided\&quot;\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;tweet\&quot;\&gt;\n                            We believe that where your furniture comes from\, and how it\'s made are just as\n                            important as style\, functionality and beauty\.\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;tweet\&quot;\&gt;\n                            \&lt;i class\=\&quot;fa fa\-phone\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&amp;nbsp\; Phone\n                            \&lt;span class\=\&quot;timestamp\&quot;\&gt;0\-2329\-8260\, 0\-2329\-8261\&lt;\/span\&gt;\&lt;br\&gt;\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;tweet\&quot;\&gt;\n                            \&lt;i class\=\&quot;fa fa\-fax\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&amp;nbsp\; Fax\n                            \&lt;span class\=\&quot;timestamp\&quot;\&gt;0\-2329\-8262\&lt;\/span\&gt;\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;tweet\&quot;\&gt;\n                            \&lt;i class\=\&quot;fa fa\-comments\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&amp;nbsp\; Email\n                            \&lt;span class\=\&quot;timestamp\&quot;\&gt;contact\@crystaldesigncenter\.com\&lt;\/span\&gt;\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/section\&gt;\n\n            \&lt;\!\-\- Posts \-\-\&gt;\n            \&lt;section class\=\&quot;col\-4 col\-12\-mobile\&quot;\&gt;\n                \&lt;header\&gt;\n                    \&lt;h2 class\=\&quot;icon solid fa\-flag circled\&quot;\&gt;\&lt;span class\=\&quot;label\&quot;\&gt;Address\&lt;\/span\&gt;\&lt;\/h2\&gt;\n                \&lt;\/header\&gt;\n                \&lt;ul class\=\&quot;divided\&quot;\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;post stub\&quot;\&gt;\n                            \&lt;header\&gt;\n                                \&lt;i class\=\&quot;fa fa\-map\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&amp;nbsp\;\n                                Crystal Design Center\&lt;br\&gt;\n                            \&lt;\/header\&gt;\n                            \&lt;span class\=\&quot;timestamp\&quot;\&gt;1420\/1 Praditmanutham Road\,\n\	\	\	\	\	\	\	\	\	\	Klongjan\, Bangkok\,\n\	\	\	\	\	\	\	\	\	\	Thailand 10240\&lt;\/span\&gt;\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;post stub\&quot;\&gt;\n                            \&lt;header\&gt;\n                                From Business District area\n                            \&lt;\/header\&gt;\n                            \&lt;span class\=\&quot;timestamp\&quot;\&gt;it will take 30 minutes via Chalong Rat Expressway and the\n\	\	\	\	\	\	\	\	\	\	Ekamai\-RamIndra Highway to Crystal Design Center\&lt;\/span\&gt;\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;article class\=\&quot;post stub\&quot;\&gt;\n                            \&lt;header\&gt;\n                                From Suvarnabhumi Airport\n                            \&lt;\/header\&gt;\n                            \&lt;span class\=\&quot;timestamp\&quot;\&gt;it will take about 30 minutes to Crystal Design\n\	\	\	\	\	\	\	\	\	\	Center\&lt;\/span\&gt;\n                        \&lt;\/article\&gt;\n                    \&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/section\&gt;\n\n            \&lt;\!\-\- Photos \-\-\&gt;\n            \&lt;section class\=\&quot;col\-4 col\-12\-mobile\&quot;\&gt;\n                \&lt;header\&gt;\n                    \&lt;h2 class\=\&quot;icon solid fa\-camera circled\&quot;\&gt;\&lt;span class\=\&quot;label\&quot;\&gt;Photos\&lt;\/span\&gt;\&lt;\/h2\&gt;\n                \&lt;\/header\&gt;\n                \&lt;div class\=\&quot;row gtr\-25\&quot;\&gt;\n                    \&lt;div class\=\&quot;col\-6\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;image fit thumbnails\&quot;\&gt;\&lt;img src\=\&quot;images\/vermont\/vermont1\.jpg\&quot;\n                                                                      alt\=\&quot;\&quot;\/\&gt;\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                    \&lt;div class\=\&quot;col\-6\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;image fit\&quot;\&gt;\&lt;img src\=\&quot;images\/vermont\/vermont2\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;row gtr\-25\&quot;\&gt;\n                    \&lt;div class\=\&quot;col\-6\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;image fit\&quot;\&gt;\&lt;img src\=\&quot;images\/vermont\/vermont3\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                    \&lt;div class\=\&quot;col\-6\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;image fit\&quot;\&gt;\&lt;img src\=\&quot;images\/vermont\/vermont4\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;row gtr\-25\&quot;\&gt;\n                    \&lt;div class\=\&quot;col\-6\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;image fit\&quot;\&gt;\&lt;img src\=\&quot;images\/vermont\/vermont5\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                    \&lt;div class\=\&quot;col\-6\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;image fit\&quot;\&gt;\&lt;img src\=\&quot;images\/vermont\/vermont6\.jpg\&quot; alt\=\&quot;\&quot;\/\&gt;\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/section\&gt;\n\n        \&lt;\/div\&gt;\n        \&lt;hr\/\&gt;\n        \&lt;div class\=\&quot;row footer\-middle\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-12\&quot;\&gt;\n\n                \&lt;\!\-\- Contact \-\-\&gt;\n                \&lt;section class\=\&quot;contact\&quot;\&gt;\n\n                    \&lt;ul class\=\&quot;icons\&quot;\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot; class\=\&quot;icon brands fa\-facebook\-f\&quot;\&gt;\&lt;span\n                                class\=\&quot;label\&quot;\&gt;Facebook\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot; class\=\&quot;icon brands fa\-instagram\&quot;\&gt;\&lt;span\n                                class\=\&quot;label\&quot;\&gt;Instagram\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot; class\=\&quot;icon brands fa\-pinterest\&quot;\&gt;\&lt;span\n                                class\=\&quot;label\&quot;\&gt;Pinterest\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot; class\=\&quot;icon brands fa\-linkedin\-in\&quot;\&gt;\&lt;span\n                                class\=\&quot;label\&quot;\&gt;Linkedin\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;\/ul\&gt;\n                \&lt;\/section\&gt;\n\n                \&lt;\!\-\- Copyright \-\-\&gt;\n                \&lt;div class\=\&quot;copyright\&quot;\&gt;\n                    \&lt;ul class\=\&quot;menu\&quot;\&gt;\n                        \&lt;li\&gt;\&amp;copy\; Copyright 2019 Furnitureio\.com\&lt;\/li\&gt;\n                    \&lt;\/ul\&gt;\n                \&lt;\/div\&gt;\n\n            \&lt;\/div\&gt;\n\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\n\&lt;\/div\&gt;\n\n\n\&lt;\!\-\- partial \-\-\&gt;\n\&lt;script src\=\'https\:\/\/ajax\.googleapis\.com\/ajax\/libs\/jquery\/1\.11\.2\/jquery\.min\.js\?ver\=1\.11\.2\'\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\'https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/lodash\.js\/3\.10\.1\/lodash\.min\.js\'\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\'https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Ladda\/0\.9\.8\/spin\.min\.js\'\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\'https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/Ladda\/0\.9\.8\/ladda\.min\.js\'\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\'https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/vue\/2\.0\.1\/vue\.min\.js\'\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\'http\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/jquery\/2\.1\.3\/jquery\.min\.js\'\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/jquery\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/jquery\.dropotron\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/jquery\.scrolly\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/jquery\.scrollex\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/browser\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/breakpoints\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/util\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;assets\/js\/main\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;\.\/bedroom\-collection\.js\&quot; type\=\&quot;module\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;\/body\&gt;\n\n\&lt;\/html\&gt;</find>
+      <find>about us</find>
+      <find>our</find>
+      <find>page-wr</find>
+      <find>coin-wr</find>
+      <find>0 2px 10px rgba(0, 0, 0, 0.08);</find>
+      <find>Furniture set includes:</find>
+      <find>productosWrapper</find>
+      <find>style1</find>
+      <find>more</find>
+      <find>row</find>
+      <find>.coin-wrapper</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,20 +141,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/A/berkley-cherry-bedroom-set.html" />
-        <option value="$PROJECT_DIR$/A/furniture-set-description.css" />
         <option value="$PROJECT_DIR$/A/contact.html" />
-        <option value="$PROJECT_DIR$/A/furniture-set-description.js" />
         <option value="$PROJECT_DIR$/A/product-description.html" />
-        <option value="$PROJECT_DIR$/A/furniture-set-description.html" />
         <option value="$PROJECT_DIR$/A/collection.html" />
-        <option value="$PROJECT_DIR$/A/about.html" />
-        <option value="$PROJECT_DIR$/A/assets/css/main.css" />
         <option value="$PROJECT_DIR$/A/assets/js/main.js" />
         <option value="$PROJECT_DIR$/A/barkley-cherry-bedroom-set.css" />
         <option value="$PROJECT_DIR$/A/test.html" />
         <option value="$PROJECT_DIR$/A/barkley-cherry-bedroom-set.js" />
+        <option value="$PROJECT_DIR$/A/index.html" />
+        <option value="$PROJECT_DIR$/A/about.html" />
+        <option value="$PROJECT_DIR$/A/assets/css/main.css" />
         <option value="$PROJECT_DIR$/A/bedroom-collection.html" />
+        <option value="$PROJECT_DIR$/A/berkley-cherry-bedroom-set.html" />
+        <option value="$PROJECT_DIR$/A/furniture-set-description.css" />
+        <option value="$PROJECT_DIR$/A/furniture-set-description.html" />
+        <option value="$PROJECT_DIR$/A/furniture-set-description.js" />
       </list>
     </option>
   </component>
@@ -193,6 +188,19 @@
               <item name="furnitureIO" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnitureIO" type="462c0819:PsiDirectoryNode" />
               <item name="A" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="furnitureIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="furnitureIO" type="462c0819:PsiDirectoryNode" />
+              <item name="A" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="furnitureIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="furnitureIO" type="462c0819:PsiDirectoryNode" />
+              <item name="A" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,27 +377,27 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50060976" side_tool="true" visible="true" weight="0.30461538" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49939024" visible="true" weight="0.30461538" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20182927" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5012195" side_tool="true" visible="true" weight="0.30461538" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4987805" visible="true" weight="0.30461538" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20182927" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,13 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="28" lean-forward="true" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
@@ -453,40 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="175" selection-start-line="175" selection-end-line="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="1847" column="13" lean-forward="true" selection-start-line="1847" selection-start-column="13" selection-end-line="1847" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-472">
-          <caret line="129" column="26" lean-forward="true" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -506,27 +473,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2730">
-          <caret line="182" column="81" selection-start-line="182" selection-start-column="81" selection-end-line="182" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#article#0;n#li#0;n#ul#0;n#section#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A/barkley-cherry-bedroom-set.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
           <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/berkley-cherry-bedroom-set.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="135" column="30" lean-forward="true" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -537,28 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A/barkley-cherry-bedroom-set.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#18#24#0" expanded="true" />
-            <element signature="e#25#31#0" expanded="true" />
-            <element signature="e#44#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/bedroom-collelction.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A/bedroom-collection.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -576,10 +505,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/A/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="2175" column="1" lean-forward="true" selection-start-line="2175" selection-start-column="1" selection-end-line="2175" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="128" column="22" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="128" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#article#0;n#li#0;n#ul#0;n#section#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/A/bedroom-collection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+        <state relative-caret-position="214">
+          <caret line="60" column="14" lean-forward="true" selection-end-line="233" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/bedroom-collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="15" lean-forward="true" selection-end-line="261" />
+          <folding>
+            <element signature="e#18#24#0" expanded="true" />
+            <element signature="e#25#31#0" expanded="true" />
+            <element signature="e#44#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/bedroom-collelction.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="178" column="14" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="178" selection-end-column="14" />
+          <folding>
+            <element signature="e#906#914#0" expanded="true" />
+            <element signature="n#style#0;n#header#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6608#6614#0" expanded="true" />
+            <element signature="e#6819#6825#0" expanded="true" />
+            <element signature="e#7016#7022#0" expanded="true" />
+            <element signature="e#7489#7495#0" expanded="true" />
+            <element signature="e#10290#10296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="134" column="66" selection-start-line="134" selection-start-column="66" selection-end-line="134" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1783#1791#0" expanded="true" />
+            <element signature="e#7679#7685#0" expanded="true" />
+            <element signature="e#7986#7992#0" expanded="true" />
+            <element signature="e#8279#8285#0" expanded="true" />
+            <element signature="e#8944#8950#0" expanded="true" />
+            <element signature="e#12722#12728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="421" column="13" selection-start-line="421" selection-end-line="421" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A/furniture-set-description.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="159" column="11" selection-start-line="159" selection-start-column="11" selection-end-line="163" selection-end-column="24" />
+          <folding>
+            <element signature="e#18#24#0" expanded="true" />
+            <element signature="e#25#31#0" expanded="true" />
+            <element signature="e#44#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
