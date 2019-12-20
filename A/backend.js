@@ -1,7 +1,10 @@
 const local_url = "https://furnitureio.herokuapp.com/api/v1/";
 // const local_url = "http://127.0.0.1:8000/api/v1/";
 
-export default class Backend {
+var cart = {};
+var size = Object.keys(cart).length;
+
+class Backend {
     async getProduct(type, key, value) {
         let param = "?";
         for (var i = 0; i < key.length;) {
@@ -33,4 +36,29 @@ export default class Backend {
 
         return response
     }
+
+    addtoCart(element) {
+        console.log(size)
+        let inCart = false;
+        let keys = Object.keys(cart);
+        for (let i = 0; i < keys.length; i++) {
+            if (this.id === keys[i]) {
+                cart[this.id] += 1
+                size++
+                inCart = true;
+                break;
+            }
+        }
+        if (!inCart) {
+            cart[this.id] = 1
+            size++
+        }
+
+        document.getElementById("totalItems").innerText = size.toString()
+        console.log(cart)
+    }
 }
+
+
+var backend = new Backend();
+export default backend;

@@ -3,16 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="083ac1f2-f4ab-4308-94a4-440ee9535d75" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/backend.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/backend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/bedroom-collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/bedroom-collection.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/bedroom-collelction.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collelction.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/furniture-set-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/product-description.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/product-description.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/product-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/product-description.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/table copy/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/table copy/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/table copy/table.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +28,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="153" />
-    <option name="y" value="24" />
-    <option name="width" value="1365" />
-    <option name="height" value="1000" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />

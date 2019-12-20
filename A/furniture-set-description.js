@@ -1,9 +1,9 @@
-import Backend from "./backend.js";
+import backend from "./backend.js";
 
 var app = window.app || {},
     business_paypal = '';
 
-var backend = new Backend();
+
 
 (function ($) {
     'use strict';
