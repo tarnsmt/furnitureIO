@@ -6,20 +6,22 @@ var shippingRate = 15.00;
 var fadeTime = 300;
 
 
-
 /* Recalculate cart */
 function recalculateCart() {
     var subtotal = 0;
-
     /* Sum up row totals */
     $('.product').each(function () {
-        subtotal += parseFloat($(this).children('.product-line-price').text());
+        let value = $(this).children('.product-line-price').text()
+        if (!isNaN(parseFloat(value))) {
+            subtotal += parseFloat(value);
+        }
     });
 
     /* Calculate totals */
     var tax = subtotal * taxRate;
     var shipping = (subtotal > 0 ? shippingRate : 0);
     var total = subtotal + tax + shipping;
+
 
     /* Update totals display */
     $('.totals-value').fadeOut(fadeTime, function () {
@@ -34,6 +36,8 @@ function recalculateCart() {
         }
         $('.totals-value').fadeIn(fadeTime);
     });
+
+
 }
 
 
@@ -42,7 +46,6 @@ function updateQuantity(quantityInput) {
     /* Calculate line price */
     var productRow = $(quantityInput).parent().parent();
     var price = parseFloat(productRow.children('.product-price').text());
-    console.log(price)
     var quantity = $(quantityInput).val();
     var linePrice = price * quantity;
 
@@ -54,6 +57,8 @@ function updateQuantity(quantityInput) {
             $(this).fadeIn(fadeTime);
         });
     });
+
+
 }
 
 
@@ -68,9 +73,15 @@ function removeItem(removeButton) {
 }
 
 
+function checkOut(){
+    alert("\tCheck Out Complete!!!\nThank for using Our Service\nWe will contact back in 48 hours")
+}
+
+
 $(document).ready(async function () {
     let cart = await backend.getCart();
-    let html = ""
+    let html = "";
+    let lineprice = ['12.49','45.99']
     for (let i = 0; i < cart.length; i++) {
         let product = cart[i].item
         let number = cart[i].number
@@ -93,6 +104,7 @@ $(document).ready(async function () {
             '            </div>\n' +
             '            <div class="product-line-price"></div>\n' +
             '        </div>'
+        lineprice.push(parseFloat(product.price) * number)
     }
 
     document.getElementById("product-container").innerHTML = html;
@@ -100,7 +112,16 @@ $(document).ready(async function () {
         updateQuantity(this);
     });
     $('.product-removal button').click(function () {
-    removeItem(this);
-});
+        removeItem(this);
+    });
 
+    let index = 0;
+    $('.product').each(function () {
+        console.log(lineprice[index]);
+        $(this).children('.product-line-price').html(lineprice[index])
+        index++;
+    });
+
+    $('.checkout').click(checkOut)
+    recalculateCart()
 })
