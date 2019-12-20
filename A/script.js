@@ -1,4 +1,5 @@
 import backend from "./backend.js";
+import {addtoCart} from "./backend.js";
 
 var app = window.app || {},
     business_paypal = '';
@@ -52,7 +53,7 @@ var app = window.app || {},
         }
 
         for (var i =0;i < codeList.length;i++) {
-            document.getElementById(codeList[i]).onclick = backend.addtoCart
+            document.getElementById(codeList[i]).onclick = addtoCart
         }
 
 
@@ -92,3 +93,7 @@ var app = window.app || {},
 
 })(jQuery)
 
+window.onload = function () {
+    localStorage.setItem("cart","{}");
+    localStorage.setItem("size","0")
+}
