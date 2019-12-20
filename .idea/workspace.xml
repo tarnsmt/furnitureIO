@@ -7,19 +7,25 @@
       <change afterPath="$PROJECT_DIR$/A/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/A/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/index.html" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/A/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/assets/js/main.js" afterDir="false" />
+>>>>>>> 4ad2f8c9596680c9b3d1cf01d9d98b445fe7703b
       <change beforePath="$PROJECT_DIR$/A/backend.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/backend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/bedroom-collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/bedroom-collection.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/bedroom-collelction.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/bedroom-collelction.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.css" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A/furniture-set-description.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/furniture-set-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/furniture-set-description.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/product-description.html" beforeDir="false" afterPath="$PROJECT_DIR$/A/product-description.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/product-description.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/product-description.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/A/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/A/script.js" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/A/table copy/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/table copy/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/table copy/table.html" beforeDir="false" />
+=======
 >>>>>>> 3bd9841307610a4f1972d518584eaaa822931d95
+>>>>>>> 4ad2f8c9596680c9b3d1cf01d9d98b445fe7703b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,6 +278,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="ProjectFrameBounds">
     <option name="x" value="153" />
     <option name="y" value="24" />
@@ -279,6 +287,7 @@
     <option name="height" value="1000" />
 >>>>>>> 3bd9841307610a4f1972d518584eaaa822931d95
   </component>
+>>>>>>> 4ad2f8c9596680c9b3d1cf01d9d98b445fe7703b
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />

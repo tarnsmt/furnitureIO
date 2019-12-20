@@ -1,6 +1,5 @@
-import Backend from "./backend.js";
+import backend from "./backend.js";
 
-var backend = new Backend()
 
 var urlParam = new URLSearchParams(location.search);
 var id = urlParam.get("id")
